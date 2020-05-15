@@ -1,6 +1,8 @@
 using System;
+using System.ComponentModel.DataAnnotations;
 
-namespace WebApplicationDotNet.Models
+
+namespace WebApplicationDotNed.Models
 {
     public class ErrorViewModel
     {
